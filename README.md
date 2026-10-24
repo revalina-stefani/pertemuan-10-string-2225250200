@@ -38,5 +38,3 @@ Status: [Berhasil atau belum]
 Saya belajar membersihkan teks menggunakan strip(), split(), join(), upper(), dan title().
 Saya juga belajar membuat fungsi untuk mengolah data teks.
 
-## Sumber dan Bantuan
-Materi perkuliahan Pertemuan 10 dan bantuan ChatGPT.
